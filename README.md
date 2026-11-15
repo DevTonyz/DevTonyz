@@ -57,16 +57,24 @@
 
 ### 🚀 Projetos em destaque
 
-<div align="center">
-
-<a href="https://github.com/DevTonyz/financas-app-android">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DevTonyz&repo=financas-app-android&theme=github_dark&hide_border=true&title_color=3DDC84&icon_color=3DDC84&description=App%20Android%20de%20finan%C3%A7as%20em%20Kotlin%2C%20com%20login%20e%20consumo%20de%20API%20via%20Retrofit" />
-</a>
-<a href="https://github.com/DevTonyz/financas-api">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DevTonyz&repo=financas-api&theme=github_dark&hide_border=true&title_color=3DDC84&icon_color=3DDC84&description=API%20REST%20em%20Spring%20Boot%20com%20JWT%2C%20grupos%2C%20categorias%20e%20transa%C3%A7%C3%B5es" />
-</a>
-
-</div>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/DevTonyz/financas-app-android">📱 Finanças App (Android)</a></h3>
+      <p>App de finanças pessoais com login e consumo da API REST.</p>
+      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+      <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" />
+      <img src="https://img.shields.io/badge/Retrofit-3DDC84?style=flat-square&logo=android&logoColor=white" />
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/DevTonyz/financas-api">⚙️ Finanças API</a></h3>
+      <p>API REST com autenticação JWT, grupos, categorias e transações, documentada com Swagger.</p>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+      <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+      <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -74,8 +82,8 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=DevTonyz&show_icons=true&theme=github_dark&hide_border=true&title_color=3DDC84&icon_color=3DDC84&locale=pt-br" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevTonyz&layout=compact&theme=github_dark&hide_border=true&title_color=3DDC84&locale=pt-br" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DevTonyz&theme=github_dark" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DevTonyz&theme=github_dark" />
 
 <img src="https://streak-stats.demolab.com?user=DevTonyz&theme=github-dark-blue&hide_border=true&ring=3DDC84&fire=3DDC84&currStreakLabel=3DDC84&locale=pt_BR" />
 
